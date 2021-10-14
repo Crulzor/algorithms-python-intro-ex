@@ -13,6 +13,7 @@ Make a Python script for at least 3 of the following exercises:
 1. What is the sum of all natural numbers between 0 and 10 000 divisible by 7 or 9?
 
     For example: 7,9,14,18 are those numbers between 0 and 20. Their sum is 48.
+    the sum is 11910243
 
 1. The row of Lucas starts with 2 and 1 and each subsequent number is the sum of the two numbers preceding the number. What is the sum of all odd numbers in the row of Lucas smaller than 4 000 000?
 
