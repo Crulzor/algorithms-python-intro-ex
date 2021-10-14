@@ -5,7 +5,7 @@ Created on Thu Sep 23 21:12:39 2021
 @author: bartc
 """
 
-def Divisable(amount):
+def divisable(amount):
     sum = 0
     for i in range(1 , amount):
         if i % 7 == 0 :
@@ -15,4 +15,4 @@ def Divisable(amount):
             print(i)
             sum += i
     return sum
-print(Divisable(10000))
+print(divisable(10000))
